@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroToSoft-GP-Final", "IntroToSoft-GP-Final\IntroToSoft-GP-Final.csproj", "{A62C7EC0-1F67-4687-BB3B-1AD79C696C92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A62C7EC0-1F67-4687-BB3B-1AD79C696C92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A62C7EC0-1F67-4687-BB3B-1AD79C696C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A62C7EC0-1F67-4687-BB3B-1AD79C696C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A62C7EC0-1F67-4687-BB3B-1AD79C696C92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D6C9BDC-3F70-4AD6-8434-CD550DA35F4F}
+	EndGlobalSection
+EndGlobal
